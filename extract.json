@@ -1,0 +1,296 @@
+{
+    "id": "e4bba1d0a8678ce91ad734b8cc274847633db1001d697a39239e45db812a5b1d",
+    "gamename": "Local Game (SunLord)",
+    "randomseed": 35371567,
+    "startSpots": 4,
+    "observers": [],
+    "players": [
+        {
+            "actions": {
+                "timed": [
+                    0
+                ],
+                "assigngroup": 0,
+                "rightclick": 0,
+                "basic": 0,
+                "buildtrain": 0,
+                "ability": 0,
+                "item": 0,
+                "select": 0,
+                "removeunit": 0,
+                "subgroup": 0,
+                "selecthotkey": 0,
+                "esc": 0
+            },
+            "groupHotkeys": {
+                "0": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "1": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "2": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "3": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "4": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "5": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "6": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "7": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "8": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "9": {
+                    "assigned": 0,
+                    "used": 0
+                }
+            },
+            "buildings": {
+                "summary": {},
+                "order": []
+            },
+            "items": {
+                "summary": {},
+                "order": []
+            },
+            "units": {
+                "summary": {},
+                "order": []
+            },
+            "upgrades": {
+                "summary": {},
+                "order": []
+            },
+            "color": "#1ce6b9",
+            "heroes": [],
+            "name": "Computer",
+            "race": "U",
+            "raceDetected": "",
+            "teamid": 0,
+            "apm": 0,
+            "id": 0,
+            "resourceTransfers": []
+        },
+        {
+            "actions": {
+                "timed": [
+                    8
+                ],
+                "assigngroup": 0,
+                "rightclick": 6,
+                "basic": 0,
+                "buildtrain": 0,
+                "ability": 0,
+                "item": 0,
+                "select": 2,
+                "removeunit": 0,
+                "subgroup": 0,
+                "selecthotkey": 0,
+                "esc": 0
+            },
+            "groupHotkeys": {
+                "0": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "1": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "2": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "3": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "4": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "5": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "6": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "7": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "8": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "9": {
+                    "assigned": 0,
+                    "used": 0
+                }
+            },
+            "buildings": {
+                "summary": {},
+                "order": []
+            },
+            "items": {
+                "summary": {},
+                "order": []
+            },
+            "units": {
+                "summary": {},
+                "order": []
+            },
+            "upgrades": {
+                "summary": {},
+                "order": []
+            },
+            "color": "#ff0303",
+            "heroes": [],
+            "name": "SunLord",
+            "race": "H",
+            "raceDetected": "",
+            "teamid": 0,
+            "apm": 45,
+            "id": 1,
+            "resourceTransfers": []
+        },
+        {
+            "actions": {
+                "timed": [
+                    0
+                ],
+                "assigngroup": 0,
+                "rightclick": 0,
+                "basic": 0,
+                "buildtrain": 0,
+                "ability": 0,
+                "item": 0,
+                "select": 0,
+                "removeunit": 0,
+                "subgroup": 0,
+                "selecthotkey": 0,
+                "esc": 0
+            },
+            "groupHotkeys": {
+                "0": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "1": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "2": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "3": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "4": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "5": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "6": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "7": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "8": {
+                    "assigned": 0,
+                    "used": 0
+                },
+                "9": {
+                    "assigned": 0,
+                    "used": 0
+                }
+            },
+            "buildings": {
+                "summary": {},
+                "order": []
+            },
+            "items": {
+                "summary": {},
+                "order": []
+            },
+            "units": {
+                "summary": {},
+                "order": []
+            },
+            "upgrades": {
+                "summary": {},
+                "order": []
+            },
+            "color": "#540081",
+            "heroes": [],
+            "name": "SunLord",
+            "race": "N",
+            "raceDetected": "",
+            "teamid": 1,
+            "apm": 0,
+            "id": 2,
+            "resourceTransfers": []
+        }
+    ],
+    "matchup": "HUvN",
+    "creator": "SunLord",
+    "type": "1on2",
+    "chat": [],
+    "apm": {
+        "trackingInterval": 60000
+    },
+    "map": {
+        "path": "Maps/m/aa.w3x",
+        "file": "aa.w3x",
+        "checksum": "4f38807d",
+        "checksumSha1": "48d9a0685950f784194a1f212e06484f6a45c948"
+    },
+    "version": "1.31",
+    "buildNumber": 6072,
+    "duration": 10775,
+    "expansion": true,
+    "settings": {
+        "referees": false,
+        "observerMode": "NONE",
+        "fixedTeams": true,
+        "fullSharedUnitControl": false,
+        "alwaysVisible": false,
+        "hideTerrain": false,
+        "mapExplored": false,
+        "teamsTogether": true,
+        "randomHero": false,
+        "randomRaces": false,
+        "speed": 2
+    },
+    "parseTime": 57,
+    "winningTeamId": -1
+}
